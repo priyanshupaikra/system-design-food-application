@@ -13,3 +13,5 @@ What does a food delivery app actually do?
 
 PHASE 1 — Core Data Models (Very Basic Python)
 Step 1: Entities (Food, Restaurant, User, Order)
+
+PHASE 2 — Simple Order Placement Service

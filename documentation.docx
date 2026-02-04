@@ -30,3 +30,13 @@ Order processing is slow
 Don’t block user
 
 PHASE 6 — LOAD BALANCING (LOGIC LEVEL)
+
+PHASE 7 — DELIVERY PARTNER ASSIGNMENT (ADVANCED)
+
+Learnings:
+Cache
+Rate limiting
+Message queues
+Load balancing
+Async processing
+State transitions

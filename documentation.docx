@@ -23,3 +23,8 @@ Fetching restaurant/menu repeatedly is expensive
 PHASE 4 — RATE LIMITING (CRITICAL INTERVIEW TOPIC)
 Problem:
 Prevent user from spamming order API.
+
+PHASE 5 — MESSAGE QUEUE (ORDER PROCESSING)
+Why Queue?
+Order processing is slow
+Don’t block user

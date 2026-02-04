@@ -19,3 +19,7 @@ PHASE 2 — Simple Order Placement Service
 PHASE 3 — CACHE (Like Redis) Using Python Dict
 Why Cache?
 Fetching restaurant/menu repeatedly is expensive
+
+PHASE 4 — RATE LIMITING (CRITICAL INTERVIEW TOPIC)
+Problem:
+Prevent user from spamming order API.

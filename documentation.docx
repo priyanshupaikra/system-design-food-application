@@ -1,0 +1,15 @@
+think of layers:
+user -> API layer -> services -> cache/Queue -> database
+
+PHASE 0 — Core Problem Understanding (ZERO LEVEL)
+What does a food delivery app actually do?
+
+1. User browses restaurants
+2. User places an order
+3. Order is processed
+4. Delivery partner is assigned
+5. Order status updates
+6. Notifications sent
+
+PHASE 1 — Core Data Models (Very Basic Python)
+Step 1: Entities (Food, Restaurant, User, Order)

@@ -28,3 +28,5 @@ PHASE 5 — MESSAGE QUEUE (ORDER PROCESSING)
 Why Queue?
 Order processing is slow
 Don’t block user
+
+PHASE 6 — LOAD BALANCING (LOGIC LEVEL)

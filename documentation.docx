@@ -15,3 +15,7 @@ PHASE 1 — Core Data Models (Very Basic Python)
 Step 1: Entities (Food, Restaurant, User, Order)
 
 PHASE 2 — Simple Order Placement Service
+
+PHASE 3 — CACHE (Like Redis) Using Python Dict
+Why Cache?
+Fetching restaurant/menu repeatedly is expensive
